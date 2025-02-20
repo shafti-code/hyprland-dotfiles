@@ -7,7 +7,7 @@
 - wofi
 - thorium-browser
 - waylock
-- wlogot
+- wlogout
 - brightnessctl(laptop brightness buttons support)
 - pulseaudio (laptop audio buttons support)
 - playerctl
