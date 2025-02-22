@@ -5,7 +5,7 @@
 - ghostty
 - yazi
 - wofi
-- thorium-browser
+- zen-browser
 - waylock
 - wlogout
 - brightnessctl(laptop brightness buttons support)
