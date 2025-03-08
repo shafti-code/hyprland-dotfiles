@@ -5,7 +5,7 @@
 - ghostty
 - yazi
 - wofi
-- zen-browser
+- thorium browser
 - waylock
 - wlogout
 - brightnessctl(laptop brightness buttons support)
@@ -20,6 +20,7 @@
 - Super + F > Launch the browser
 - Super + L > Lock your srceen
 - Super + M > Lauch Wlogout (logout  menu)
+- Super + C > Lauch emoji picker
 - Super + E > Launch Yazi (file manager)
 - Super + W > toggle floating on current window
 - Super + A > launch aplication menu
