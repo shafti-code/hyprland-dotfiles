@@ -29,7 +29,5 @@
 - Super + Shift + P > screenshot
 - Alt + Return(Enter) > toggle fullscreen
 ## General Usage
-After downloading all the dependencies and putting this configuration into ~/.config/hypr you are ready, feel free to modify this config however your like, reading **hyprland wiki** is a good start, you can check out my other repos that include configs for ghostty or neovim 
+After downloading all the dependencies and putting this configuration into ~/.config/hypr you are ready, feel free to modify this config however your like, reading **hyprland wiki** is a good start, you can check out my other repos that include configs for ghostty or neovim, 
 **have fun :)**
-> waybar config coming soon
-> ^^^ no its not sorry
